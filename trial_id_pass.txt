@@ -1,0 +1,11 @@
+user:
+svp@gmail.com
+svp123
+
+admin:
+rdy2611@gmail.com
+rdy2611
+
+owner:
+simran@gmail.com
+simran@@123
